@@ -19,5 +19,5 @@ func main() {
 	Crm_requestobj.crm_datainboundobj.Crm_inboundfnname = "CREATECUSTOMER"
 	Crm_requestobj.tvs_orderinfoobj.OrderType = "CUSTOMERORDER"
 	fmt.Println(Crm_requestobj)
-
+ 
 }
